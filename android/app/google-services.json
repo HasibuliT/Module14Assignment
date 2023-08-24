@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682525076725",
+    "project_id": "live-score-app-23068",
+    "storage_bucket": "live-score-app-23068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682525076725:android:d13fa5e8f96fa4de75e9bc",
+        "android_client_info": {
+          "package_name": "com.hasibul.module14_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682525076725-jqfva8mo10hbo7vadedvtspt5mn25n4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH5w4-ZbEtKMXTRxhpeGUup6hR_rn2sjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682525076725-jqfva8mo10hbo7vadedvtspt5mn25n4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
